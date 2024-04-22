@@ -18,7 +18,7 @@ This mini-project is a simple calculator implemented in PHP, designed to be run 
 
 1. **Clone the repository:**
    ```bash
-   $ git clone https://github.com/username/php-cli-calculator.git
+   $ git clone [https://github.com/97mams/calculator.git]
 2. **Change directory**
    ```bash
     $ cd calculatrice
