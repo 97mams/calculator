@@ -24,7 +24,7 @@ This mini-project is a simple calculator implemented in PHP, designed to be run 
     $ cd calculatrice
 2. **Reload vendor**
    ```bash
-    $ composer dump-reaload
+    $ composer install
 3. **Run project with CLI php**
      ```bash
     $ php index.php
